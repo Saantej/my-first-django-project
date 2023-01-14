@@ -1,8 +1,6 @@
 
 <
 blog/apps.py,5\1\51955899fc35f65c8f4e3a7b417395ce65636ebd
->
-blog/models.py,9\0\90f4c37dbfd7a96a1fb4496187f7e1fe7d61f3cf
 9
 	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
 =
