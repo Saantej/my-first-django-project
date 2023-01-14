@@ -1,3 +1,9 @@
 
+<
+blog/apps.py,5\1\51955899fc35f65c8f4e3a7b417395ce65636ebd
 >
-mysite/urls.py,f\6\f654c03fc6faff72cb0bb91ef53db408616d5ced
+blog/models.py,9\0\90f4c37dbfd7a96a1fb4496187f7e1fe7d61f3cf
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+=
+blog/admin.py,9\f\9f9560753a3e5c777e2281279748008e37d22c37
